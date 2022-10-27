@@ -1,0 +1,6 @@
+# ignoring csv files for upload
+.csv
+
+.DS_Store
+
+.ipnyb_checkpoints
